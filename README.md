@@ -1,2 +1,5 @@
 # Sec_C_NewMumbai
-Ideas from Sec C about improving Mumbai City
+Ideas from Affan Ahmed about improving Mumbai City:
+
+1. Make BEST the best again
+2. 
